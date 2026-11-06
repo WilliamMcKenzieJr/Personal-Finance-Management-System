@@ -5,7 +5,6 @@
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Auth-JWT%20%2B%20BCrypt-6DB33F?logo=springsecurity&logoColor=white)
-![Tests](https://img.shields.io/badge/tests-26%20passing-brightgreen)
 
 FinTrack is a full-stack web application for managing personal finances: bills, income, spending, savings goals and budgets, all in one place. It pairs a **React** single-page app with a **Spring Boot REST API**, and was built with security in mind: hashed passwords, token-based authentication, role-based access control, account lockouts, and audit logging.
 
